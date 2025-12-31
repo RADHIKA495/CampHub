@@ -43,11 +43,11 @@ It implements secure authentication, authorization, and RESTful architecture.
 ### Home Page
 ![Home Page](screenshots/home.png)
 
-### Campgrounds
-![Campgrounds](screenshots/campgrounds.png)
+### Campgrounds Details
+![Campgrounds Details](screenshots/campgrounds.png)
 
-### Campground Details
-![Campground Details](screenshots/details.png)
+### New Campground
+![New Campground](screenshots/new.png)
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone the repository
