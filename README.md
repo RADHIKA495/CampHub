@@ -38,7 +38,16 @@ It implements secure authentication, authorization, and RESTful architecture.
 - connect-flash
 - dotenv
 
+##  Screenshots
 
+### Home Page
+![Home Page](screenshots/home.png)
+
+### Campgrounds
+![Campgrounds](screenshots/campgrounds.png)
+
+### Campground Details
+![Campground Details](screenshots/details.png)
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone the repository
